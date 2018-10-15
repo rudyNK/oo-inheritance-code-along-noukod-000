@@ -11,7 +11,7 @@ def go
 end
 
 def fill_up_tank
-  "filling"
+  "filling up"
 end
 
 end
